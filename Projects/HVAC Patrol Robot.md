@@ -66,4 +66,4 @@ Points are given once the sensors are demonstrated working with your project.
 - Sales Pitch: pitch your project to a judge - Up to 20 Points
 - Completion: demonstrate your complete project working - 20 Points
 - Next Steps: presenting next steps to improve device/robot - Up to 20 Points
-- Originality / Innovation - Up to 20 points (mostly reserved for custom projects)
+- Originality / Innovation - Up to 20 points
