@@ -1,5 +1,5 @@
-# Leak Detector
-Sounds an alarm whenever a leak under the sink is detected
+# Security Trip Switch
+Sounds an alarm whenever a laser is interrupted
 
 ## Options
 
@@ -10,8 +10,9 @@ Alarm is signaled using an LED or buzzer
 Alarm is signaled by sending an alarm message over bluetooth
 
 ## Hardware
-- Water Level Sensor
-- Led / Buzzer Option: Buzzer **OR** LED
+- Laser Emitter
+- Laser Receiver
+- LED / Buzzer Option: Buzzer **OR** LED
 - Bluetooth Option: Bluetooth UART
 
 ## Hardware Setup
@@ -21,8 +22,8 @@ Alarm is signaled by sending an alarm message over bluetooth
 1. TODO
 
 ## loop() Pseudocode
-1. Read water level sensor
-2. If level is above a certain threshold, drive LED **OR** buzzer **OR** sends alarm over bluetooth
+1. Trip Switch
+2. If laser is interrupted, drive LED **OR** buzzer **OR** sends alarm over bluetooth
 
 ## Ask-an-Expert
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
@@ -30,14 +31,15 @@ You may consult with a facilitator to help you solve a problem three times at no
 ## Scoring
 ### Sensors (30-40 points possible)
 
-- Volume Sensor - 20 Points
+- Laser Emitter - 10 Points
+- Laser Receiver - 10 Points
 - Buzzer / LED Option: Buzzer **OR** LED - 10 Points
 - Bluetooth Option: Bluetooth Sensor - 20 Points
 
 ### Progress (40 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
-- Device triggers LED or Buzzer in presence of excessive noise - 10 Points
+- Device triggers LED / Buzzer / Bluetooth alarm when laser is interrupted - 10 Points
 - Device does not easily trigger a false positive - 10 Points
 
 ### Other
