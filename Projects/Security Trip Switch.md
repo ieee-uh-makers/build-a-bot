@@ -9,7 +9,7 @@ Alarm is signaled using an LED or buzzer
 ### Bluetooth Serial Alert
 Alarm is signaled by sending an alarm message over bluetooth
 
-## Hardware
+## Hardware Used
 - Arduino Nano / MSP430
 - Laser Emitter
 - Laser Receiver
@@ -20,7 +20,7 @@ Alarm is signaled by sending an alarm message over bluetooth
 - TODO: Link to schematic
 
 ## Libraries Used
-1. Bluetooth Option: SoftwareSerial - https://www.arduino.cc/en/Reference/softwareSerial
+1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
 1. Check if laser is interrupted
@@ -31,6 +31,7 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Scoring
 ### Sensors (30-40 points possible)
+Points are given once the sensors are demonstrated working with your project.
 
 - Laser Emitter - 10 Points
 - Laser Receiver - 10 Points

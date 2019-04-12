@@ -1,7 +1,7 @@
 # Fitness Wearable
-Tracks number of steps, estimates calories burnt
+Wearable device that tracks number of steps, estimates calories burnt
 
-## Hardware
+## Hardware Used
 - Arduino Nano / MSP430
 - IMU
 - Bluetooth UART
@@ -11,7 +11,7 @@ Tracks number of steps, estimates calories burnt
 
 ## Libraries Used
 1. IMU - TODO
-2. Bluetooth Option: SoftwareSerial
+2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
 1. Read IMU
@@ -23,6 +23,7 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Scoring
 ### Sensors (40 points possible)
+Points are given once the sensors are demonstrated working with your project.
 
 - IMU - 20 Points
 - Bluetooth Option: Bluetooth Sensor - 20 Points

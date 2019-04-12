@@ -11,7 +11,7 @@ The robot will be controlled with a joystick
 ### Autonomous Control
 The robot will be automatically controlled using the ultrasonic rangefinder, turning whenever it gets too close to an object.
 
-## Hardware
+## Hardware Used
 - Arduino Nano / MSP430
 - Racer Bot
 - LCD *or* Bluetooth Serial
@@ -23,7 +23,8 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 
 ## Libraries Used
 1. Racer: https://github.com/ieee-uh-makers/build-a-bot
-2. Bluetooth: SoftwareSerial - https://www.arduino.cc/en/Reference/softwareSerial
+2. Bluetooth: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
+3. LCD - TODO
 
 ## Autonomous loop() Pseudocode
 1. Read ultrasonic sensor range
@@ -45,6 +46,8 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Scoring
 ### Sensors (50-60 points possible)
+Points are given once the sensors are demonstrated working with your project.
+
 - Temperature / Humidity Sensor - 20 Points
 - Joystick - 10 Points
 - Ultrasonic - 20 Points

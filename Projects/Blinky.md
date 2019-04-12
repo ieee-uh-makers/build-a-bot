@@ -1,16 +1,13 @@
 # Blinky: Recommended Beginner Project
 Use a button to control an LED
 
-## Hardware
+## Hardware Used
 - Arduino Nano / MSP430
 - Button
 - LED
 
 ## Hardware Setup
 - TODO: Link to schematic
-
-## Libraries Used
-1. TODO
 
 ## loop() Pseudocode
 1. Read button
@@ -21,10 +18,12 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Scoring
 ### Sensors (20 points possible)
+Points are given once the sensors are demonstrated working with your project.
+
 - LED - 10 Points
 - Button - 10 Points
 
-### Progress (40 points possible)
+### Progress (30-40 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
 - Button controls LED - 10 Points

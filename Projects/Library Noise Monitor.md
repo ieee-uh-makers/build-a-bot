@@ -9,17 +9,17 @@ Alarm is signaled using an LED or buzzer
 ### Bluetooth Serial Alert
 Alarm is signaled by sending an alarm message over bluetooth
 
-## Hardware
+## Hardware Used
 - Arduino Nano / MSP430
 - Water Level Sensor
-- Led / Buzzer Option: Buzzer **OR** LED
+- LED / Buzzer Option: Buzzer **OR** LED
 - Bluetooth Option: Bluetooth UART
 
 ## Hardware Setup
 - TODO: Link to schematic
 
 ## Libraries Used
-1. Bluetooth Option: SoftwareSerial - https://www.arduino.cc/en/Reference/softwareSerial
+1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
 1. Read sound sensor
@@ -30,6 +30,8 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Scoring
 ### Sensors (30-40 points possible)
+Points are given once the sensors are demonstrated working with your project.
+
 - Volume Sensor - 20 Points
 - Buzzer **OR** LED - 10 Points
 - Bluetooth Serial - 20 Points

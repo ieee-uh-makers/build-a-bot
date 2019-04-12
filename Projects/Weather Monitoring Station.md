@@ -1,17 +1,27 @@
 # Weather Monitoring Station
-Device that stays outside recording weather conditions including temperature, humidity, and rain. It sends these conditions over bluetooth at a regular interval
+Device that stays outside recording weather conditions including temperature, humidity, and rain.
 
-## Hardware
+## Options
+
+### Bluetooth Serial
+The measurements are sent wirelessly over bluetooth to a computer
+
+### LCD
+The conditions are displayed on an LCD
+
+## Hardware Used
 - Arduino Nano / MSP430
 - Temperature / Humidity Sensor
 - Rain Sensor
-- Bluetooth Serial
+- Bluetooth Option: Bluetooth Serial
+- LCD Option: LCD
 
 ## Hardware Setup
 - TODO: Link to schematic
 
 ## Libraries Used
-1. SoftwareSerial - https://www.arduino.cc/en/Reference/softwareSerial
+1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
+2. LCD Option: LCD - TODO
 
 ## loop() Pseudocode
 1. Read temperature, humidty and rain sensors.
@@ -22,15 +32,18 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Scoring
 ### Sensors (50 points possible)
+Points are given once the sensors are demonstrated working with your project.
+
 - Temperature / Humidity Sensor - 20 Points
 - Rain Sensor - 10 Points
-- Bluetooth Serial - 20 Points
+- Bluetooth Option: Bluetooth Serial - 20 Points
+- LCD Option: LCD - 20 Points
 
 ### Progress (60 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
 - Record temperature, humidity, rain level - 20 Points
-- Send readings over Bluetooth - 10 Points
+- Send readings over bluetooth or display them on the LCD - 10 Points
 - Bonus: Create algorithm to predict whether it will rain or not based on temperature / humidity - 10 Points
 
 ### Other

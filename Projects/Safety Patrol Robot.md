@@ -8,7 +8,7 @@ The robot will be controlled with a joystick
 ### Autonomous Control
 The robot will be automatically controlled using the ultrasonic rangefinder, turning whenever it gets too close to an object.
 
-## Hardware
+## Hardware Used
 - Arduino Nano / MSP430
 - Racer Bot
 - Buzzer
@@ -40,6 +40,8 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Scoring
 ### Sensors (20-30 points possible)
+Points are given once the sensors are demonstrated working with your project.
+
 - Flame Sensor - 10 Points
 - Joystick - 10 Points
 - Ultrasonic - 20 Points
