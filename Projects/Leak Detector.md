@@ -34,11 +34,11 @@ You may consult with a facilitator to help you solve a problem three times at no
 - Buzzer / LED Option: Buzzer **OR** LED - 10 Points
 - Bluetooth Option: Bluetooth Sensor - 20 Points
 
-### Progress (40 points possible)
+### Progress (40-50 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
-- Device triggers LED or Buzzer in presence of excessive noise - 10 Points
-- Device does not easily trigger a false positive - 10 Points
+- Device triggers LED or Buzzer in presence of excessive noise - 20 Points
+- **Bonus**: Device does not easily trigger a false positive - 10 Points
 
 ### Other
 - Completion - 20 Points
