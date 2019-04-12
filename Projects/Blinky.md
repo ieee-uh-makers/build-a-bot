@@ -29,7 +29,8 @@ Points are given once the sensors are demonstrated working with your project.
 - Button controls LED - 10 Points
 - Bonus: Creative modulation using a second button or sensor - 10 Points
 
-### Other
-- Completion - 10 Points
-- Documenting next steps to improve device/robot - Up to 10 Points
+### Other (40 Points Possible)
+- Sales Pitch: pitch your project to a judge - Up to 10 Points
+- Completion: demonstrate your complete project working - 10 Points
+- Next Steps: presenting next steps to improve device/robot - Up to 10 Points
 - Originality / Innovation - Up to 10 points (mostly reserved for custom projects)
