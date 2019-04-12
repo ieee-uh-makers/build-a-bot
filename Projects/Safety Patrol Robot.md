@@ -54,5 +54,5 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ### Other
 - Completion - 20 Points
-- Documenting next steps to improve robot - 20 Points
-- Originality / Innovation - Up to 20 points
+- Documenting next steps to improve robot - Up to 20 Points
+- Originality / Innovation - Up to 20 points (mostly reserved for custom projects)
