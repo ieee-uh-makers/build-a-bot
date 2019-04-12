@@ -1,10 +1,15 @@
 # Sensor Points
+- Simple LED: 10 Points
 - Laser Emitter - 10 Points
 - Laser Receiver - 10 Points
 - Button - 10 Points
+- Multi Color LED / Flash LED - 20 Points
+- Tilt Switch - 20 Points
+- Metal Touch - 20 Points
 - Mobile Base - 20 Points
 - Proximity Sensor - 20 Points
 - Joystick - 20 Points
+- Buzzer - 20 Points
 - Flame Sensor - 20 Points
 - LCD - 20 Points
 - IMU - 20 Points
