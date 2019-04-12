@@ -12,7 +12,7 @@
 - Sounds an alarm whenever a leak under the sink is detected
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Leak%20Detector.md
 
-## Security Trip Switch
+### Security Trip Switch
 - Sounds an alarm whenever a laser is interrupted
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Security%20Trip%20Switch.md
 
