@@ -1,5 +1,5 @@
 # Safety Patrol Robot
-### Robot that patrols a building looking for fires
+Robot that patrols a building looking for fires
 
 ## Options
 ### Manual Control
