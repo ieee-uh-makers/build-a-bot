@@ -1,5 +1,5 @@
-# Library Noise Monitor
-Automatically alerts staff when the noise levels in the library become distracting for people studying there
+# Leak Detector
+Sounds an alarm whenever a leak under the sink is detected
 
 ## Options
 
@@ -21,22 +21,23 @@ Alarm is signaled by sending an alarm message over bluetooth
 1. TODO
 
 ## loop() Pseudocode
-1. Read sound sensor
-2. If noise is above certain point, drive LED **OR** buzzer **OR** send alert over bluetooth
+1. Read water level sensor
+2. If level is above a certain threshold, drive LED **OR** buzzer **OR** sends alarm over bluetooth
 
 ## Ask-an-Expert
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
-### Sensors (30-40 points possible)
+### Sensors (30 points possible)
+
 - Volume Sensor - 20 Points
-- Buzzer **OR** LED - 10 Points
-- Bluetooth Serial - 20 Points
+- Buzzer / LED Option: Buzzer **OR** LED - 10 Points
+- Bluetooth Option: Bluetooth Sensor - 20 Points
 
 ### Progress (40 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
-- Device triggers LED / Buzzer / Bluetooth Serial Alarm in presence of excessive noise - 10 Points
+- Device triggers LED or Buzzer in presence of excessive noise - 10 Points
 - Device does not easily trigger a false positive - 10 Points
 
 ### Other
