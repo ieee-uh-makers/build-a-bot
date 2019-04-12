@@ -31,3 +31,6 @@
 ## (Expert) HVAC Patrol Robot
 - Robot that patrols a building computing statistics about temperature and humidity to improve temperature consistency.
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/HVAC%20Patrol%20Robot.md
+
+# Sensors
+- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
