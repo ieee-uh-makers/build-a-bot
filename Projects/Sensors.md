@@ -1,20 +1,31 @@
 # Sensor Points
-- Simple LED: 10 Points
-- Laser Emitter - 10 Points
-- Laser Receiver - 10 Points
-- Button - 10 Points
-- Multi Color LED / Flash LED - 20 Points
-- Tilt Switch - 20 Points
-- Metal Touch - 20 Points
-- Mobile Base - 20 Points
-- Proximity Sensor - 20 Points
-- Joystick - 20 Points
-- Buzzer - 20 Points
-- Flame Sensor - 20 Points
-- LCD - 20 Points
-- IMU - 20 Points
-- Bluetooth Serial - 20 Points
-- Temperature / Humidity Sensor - 20 Points
-- Ultrasonic - 20 Points
-- Volume Sensor - 20 Points
-- Rain Sensor - 20 Points
+
+## 10 Points
+
+- Button
+- Laser Emitter
+- Laser Receiver
+- Photo Interrupter
+- Relay
+- Simple LED
+- Tap Module
+
+## 20 Points
+
+- Bluetooth Serial
+- Buzzer
+- Flame Sensor
+- IMU
+- Infrared Receiver
+- Joystick
+- Key Pad
+- LCD
+- Metal Touch
+- Mobile Base
+- Multi Color LED / Flash LED
+- Proximity Sensor
+- Rain Sensor
+- Temperature / Humidity Sensor
+- Tilt Switch
+- Ultrasonic
+- Volume Sensor
