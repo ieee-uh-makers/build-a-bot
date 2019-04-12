@@ -18,7 +18,7 @@ Alarm is signaled by sending an alarm message over bluetooth
 - TODO: Link to schematic
 
 ## Libraries Used
-1. TODO
+1. Bluetooth Option: SoftwareSerial - https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
 1. Read sound sensor

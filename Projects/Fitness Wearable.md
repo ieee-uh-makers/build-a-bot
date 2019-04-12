@@ -10,6 +10,7 @@ Tracks number of steps, estimates calories burnt
 
 ## Libraries Used
 1. IMU - TODO
+2. Bluetooth Option: SoftwareSerial
 
 ## loop() Pseudocode
 1. Read IMU

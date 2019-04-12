@@ -22,6 +22,7 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 
 ## Libraries Used
 1. Racer: https://github.com/ieee-uh-makers/build-a-bot
+2. Bluetooth: SoftwareSerial
 
 ## Autonomous loop() Pseudocode
 1. Read ultrasonic sensor range

@@ -11,14 +11,14 @@ Alarm is signaled by sending an alarm message over bluetooth
 
 ## Hardware
 - Water Level Sensor
-- Led / Buzzer Option: Buzzer **OR** LED
+- LED / Buzzer Option: Buzzer **OR** LED
 - Bluetooth Option: Bluetooth UART
 
 ## Hardware Setup
 - TODO: Link to schematic
 
 ## Libraries Used
-1. TODO
+1. Bluetooth Option: SoftwareSerial - https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
 1. Read water level sensor
