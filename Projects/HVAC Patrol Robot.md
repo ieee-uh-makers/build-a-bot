@@ -1,8 +1,8 @@
 # HVAC Patrol Robot
-Robot that patrols a building computing statistics about temperature and humidity to improve temperature consistency. Statistics computed include the following:
+Robot that patrols a building computing statistics about temperature and humidity to improve temperature consistency. Statistics computed include the minimum, maximum, average, and standard deviation of the following:
 
-- Min, Max, Average, Standard Deviation Temperature
-- Min, Max, Average, Standard Deviation Humidity
+- Temperature
+- Humidity
 
 ## Options
 ### Manual Control
@@ -18,7 +18,7 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 - Autonomous Control Only: Ultrasonic Rangefinder
 
 ## Hardware Setup
-- Link to schematic
+- TODO: Link to schematic
 
 ## Libraries Used
 1. Racer: https://github.com/ieee-uh-makers/build-a-bot
@@ -48,11 +48,12 @@ You may consult with a facilitator to help you solve a problem three times at no
 - Ultrasonic - 20 Points
 - LCD *or* Bluetooth Serial - 20 Points
 
-### Progress (60 points possible)
+### Progress (70 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
 - Robot is moving (either via manual control or turns when its about to hit something) - 20 Points
 - Robot records temperature and humidity - 10 Points
+- Robot computes statistics - 10 Points
 - Robot displays statistics to LCD or sends them via Bluetooth - 10 Points
 
 ### Project Options (10 points possible)

@@ -16,7 +16,7 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 - Autonomous Control Only: Ultrasonic Rangefinder
 
 ## Hardware Setup
-- Link to schematic
+- TODO: Link to schematic
 
 ## Libraries Used
 1. Racer: https://github.com/ieee-uh-makers/build-a-bot
