@@ -1,5 +1,5 @@
 # Blinky: Recommended Beginner Project
-Use a sensor to control an LED
+Use a button to control an LED
 
 ## Hardware
 - Button
