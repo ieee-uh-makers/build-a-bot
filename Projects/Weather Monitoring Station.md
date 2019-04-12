@@ -26,11 +26,12 @@ You may consult with a facilitator to help you solve a problem three times at no
 - Rain Sensor - 10 Points
 - Bluetooth Serial - 20 Points
 
-### Progress (50 points possible)
+### Progress (60 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
 - Record temperature, humidity, rain level - 20 Points
 - Send readings over Bluetooth - 10 Points
+- Bonus: Create algorithm to predict whether it will rain or not based on temperature / humidity - 10 Points
 
 ### Other
 - Completion - 20 Points
