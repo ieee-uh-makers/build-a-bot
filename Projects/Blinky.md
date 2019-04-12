@@ -2,6 +2,7 @@
 Use a button to control an LED
 
 ## Hardware
+- Arduino Nano / MSP430
 - Button
 - LED
 

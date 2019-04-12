@@ -10,6 +10,7 @@ Alarm is signaled using an LED or buzzer
 Alarm is signaled by sending an alarm message over bluetooth
 
 ## Hardware
+- Arduino Nano / MSP430
 - Laser Emitter
 - Laser Receiver
 - LED / Buzzer Option: Buzzer **OR** LED

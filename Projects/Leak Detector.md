@@ -10,6 +10,7 @@ Alarm is signaled using an LED or buzzer
 Alarm is signaled by sending an alarm message over bluetooth
 
 ## Hardware
+- Arduino Nano / MSP430
 - Water Level Sensor
 - LED / Buzzer Option: Buzzer **OR** LED
 - Bluetooth Option: Bluetooth UART

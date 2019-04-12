@@ -9,6 +9,7 @@ The robot will be controlled with a joystick
 The robot will be automatically controlled using the ultrasonic rangefinder, turning whenever it gets too close to an object.
 
 ## Hardware
+- Arduino Nano / MSP430
 - Racer Bot
 - Buzzer
 - Fire Sensor

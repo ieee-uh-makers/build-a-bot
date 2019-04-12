@@ -2,6 +2,7 @@
 Tracks number of steps, estimates calories burnt
 
 ## Hardware
+- Arduino Nano / MSP430
 - IMU
 - Bluetooth UART
 
