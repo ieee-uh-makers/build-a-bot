@@ -24,20 +24,16 @@ The conditions are displayed on an LCD
 2. LCD Option: LCD - TODO
 
 ## loop() Pseudocode
-1. Read temperature, humidty and rain sensors.
+1. Read temperature, humidity and rain sensors.
 2. Transmit them over bluetooth at a regular interval
 
 ## Ask-an-Expert
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
-### Sensors (50 points possible)
-Points are given once the sensors are demonstrated working with your project.
-
-- Temperature / Humidity Sensor - 20 Points
-- Rain Sensor - 10 Points
-- Bluetooth Option: Bluetooth Serial - 20 Points
-- LCD Option: LCD - 20 Points
+### Sensors
+- Points are given once the sensors are demonstrated working with your project.
+- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
 
 ### Progress (60 points possible)
 - Setup Arduino / Energia Project - 10 points

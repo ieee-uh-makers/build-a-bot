@@ -45,13 +45,9 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
-### Sensors (50-60 points possible)
-Points are given once the sensors are demonstrated working with your project.
-
-- Temperature / Humidity Sensor - 20 Points
-- Joystick - 10 Points
-- Ultrasonic - 20 Points
-- LCD *or* Bluetooth Serial - 20 Points
+### Sensors
+- Points are given once the sensors are demonstrated working with your project.
+- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
 
 ### Progress (70-80 points possible)
 - Setup Arduino / Energia Project - 10 points

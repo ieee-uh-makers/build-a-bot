@@ -1,0 +1,15 @@
+# Sensor Points
+- Laser Emitter - 10 Points
+- Laser Receiver - 10 Points
+- Button - 10 Points
+- Mobile Base - 20 Points
+- Proximity Sensor - 20 Points
+- Joystick - 20 Points
+- Flame Sensor - 20 Points
+- LCD - 20 Points
+- IMU - 20 Points
+- Bluetooth Serial - 20 Points
+- Temperature / Humidity Sensor - 20 Points
+- Ultrasonic - 20 Points
+- Volume Sensor - 20 Points
+- Rain Sensor - 20 Points

@@ -22,11 +22,9 @@ Wearable device that tracks number of steps, estimates calories burnt
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
-### Sensors (40 points possible)
-Points are given once the sensors are demonstrated working with your project.
-
-- IMU - 20 Points
-- Bluetooth Option: Bluetooth Sensor - 20 Points
+### Sensors
+- Points are given once the sensors are demonstrated working with your project.
+- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
 
 ### Progress (50-60 points possible)
 - Setup Arduino / Energia Project - 10 points

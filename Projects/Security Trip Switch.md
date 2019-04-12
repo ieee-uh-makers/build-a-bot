@@ -30,13 +30,9 @@ Alarm is signaled by sending an alarm message over bluetooth
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
-### Sensors (30-40 points possible)
-Points are given once the sensors are demonstrated working with your project.
-
-- Laser Emitter - 10 Points
-- Laser Receiver - 10 Points
-- Buzzer / LED Option: Buzzer **OR** LED - 10 Points
-- Bluetooth Option: Bluetooth Sensor - 20 Points
+### Sensors
+- Points are given once the sensors are demonstrated working with your project.
+- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
 
 ### Progress (40 points possible)
 - Setup Arduino / Energia Project - 10 points

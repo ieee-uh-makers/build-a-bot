@@ -39,12 +39,9 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
-### Sensors (20-30 points possible)
-Points are given once the sensors are demonstrated working with your project.
-
-- Flame Sensor - 10 Points
-- Joystick - 10 Points
-- Ultrasonic - 20 Points
+### Sensors
+- Points are given once the sensors are demonstrated working with your project.
+- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
 
 ### Progress (60-70 points possible)
 - Setup Arduino / Energia Project - 10 points
