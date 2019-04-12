@@ -8,7 +8,7 @@ Robot that patrols a building computing statistics about temperature and humidit
 ### Manual Control
 The robot will be controlled with a joystick
 
-### Autonomous Control
+### Autonomous Control (10 Bonus Points)
 The robot will be automatically controlled using the ultrasonic rangefinder, turning whenever it gets too close to an object.
 
 ## Hardware Used
@@ -53,19 +53,17 @@ Points are given once the sensors are demonstrated working with your project.
 - Ultrasonic - 20 Points
 - LCD *or* Bluetooth Serial - 20 Points
 
-### Progress (70 points possible)
+### Progress (70-80 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
 - Robot is moving (either via manual control or turns when its about to hit something) - 20 Points
 - Robot records temperature and humidity - 10 Points
 - Robot computes statistics - 10 Points
 - Robot displays statistics to LCD or sends them via Bluetooth - 10 Points
-
-### Project Options (10 points possible)
-- Autonomous - 10 Points
+- **Bonus**: Autonomous Option - 10 Points
 
 ### Other (80 Points Possible)
 - Sales Pitch: pitch your project to a judge - Up to 20 Points
 - Completion: demonstrate your complete project working - 20 Points
-- Documenting next steps to improve device/robot - Up to 20 Points
+- Next Steps: presenting next steps to improve device/robot - Up to 20 Points
 - Originality / Innovation - Up to 20 points (mostly reserved for custom projects)
