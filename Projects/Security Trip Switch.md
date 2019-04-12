@@ -22,7 +22,7 @@ Alarm is signaled by sending an alarm message over bluetooth
 1. TODO
 
 ## loop() Pseudocode
-1. Trip Switch
+1. Check if laser is interrupted
 2. If laser is interrupted, drive LED **OR** buzzer **OR** sends alarm over bluetooth
 
 ## Ask-an-Expert
