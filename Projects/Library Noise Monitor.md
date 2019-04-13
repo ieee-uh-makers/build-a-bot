@@ -21,11 +21,11 @@ Alarm is signaled by sending an alarm message over bluetooth
 - Points are given once the sensors are demonstrated working with your project.
 - Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
 
-### Progress (40 points possible)
+### Progress (40-50 points possible)
 - Setup Arduino / Energia Project - 10 points
 - Wiring - 10 Points
-- Device triggers LED / Buzzer / Bluetooth Serial Alarm in presence of excessive noise - 10 Points
-- Device does not easily trigger a false positive - 10 Points
+- Device triggers LED / Buzzer / Bluetooth Serial Alarm in presence of excessive noise - 20 Points
+- **Bonus**: Device does not easily trigger a false positive - 10 Points
 
 ### Other (80 Points Possible)
 - Sales Pitch: pitch your project to a judge - Up to 20 Points
