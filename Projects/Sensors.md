@@ -1,4 +1,4 @@
-# Sensor Points
+# Available Sensors
 
 ## 10 Points
 
@@ -21,7 +21,6 @@
 - Key Pad
 - LCD
 - Metal Touch
-- Mobile Base
 - Multi Color LED / Flash LED
 - Proximity Sensor
 - Rain Sensor
@@ -29,3 +28,7 @@
 - Tilt Switch
 - Ultrasonic
 - Volume Sensor
+
+## 30 Points
+
+Mobile Robot Base
