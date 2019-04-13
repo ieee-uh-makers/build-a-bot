@@ -17,7 +17,6 @@ Alarm is signaled by sending an alarm message over bluetooth
 - Bluetooth Option: Bluetooth UART
 
 ## Scoring
-- Project is worth 50 points
 
 ### Progress
 - Setup Arduino / Energia Project

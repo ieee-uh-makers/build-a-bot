@@ -8,7 +8,6 @@ Wearable device that tracks number of steps, estimates calories burnt
 - Bluetooth UART
 
 ## Scoring
-- Project is worth 60 points
 
 ### Progress
 - Setup Arduino / Energia Project

@@ -21,7 +21,6 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 
 
 ## Scoring
-- Project is worth 80 points
 
 ### Progress
 - Setup Arduino / Energia Project

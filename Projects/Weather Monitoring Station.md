@@ -18,7 +18,6 @@ The conditions are displayed on an LCD
 - LCD Option: LCD
 
 ## Scoring
-- Project is worth 60 points
 
 ### Progress
 - Setup Arduino / Energia Project

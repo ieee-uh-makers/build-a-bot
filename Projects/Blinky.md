@@ -8,7 +8,6 @@ Use a button to control an LED
 - LED
 
 ## Scoring
-- Project is worth 40 points
 
 ### Progress
 - Setup Arduino / Energia Project
