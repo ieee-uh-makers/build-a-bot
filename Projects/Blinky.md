@@ -2,6 +2,7 @@
 Use a button to control an LED
 
 ## Hardware Used
+- Breadboard & Jumper Cables
 - Arduino Nano / MSP430
 - Button
 - LED

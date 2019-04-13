@@ -10,6 +10,7 @@ The measurements are sent wirelessly over bluetooth to a computer
 The conditions are displayed on an LCD
 
 ## Hardware Used
+- Breadboard & Jumper Cables
 - Arduino Nano / MSP430
 - Temperature / Humidity Sensor
 - Rain Sensor

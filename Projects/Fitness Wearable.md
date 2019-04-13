@@ -2,6 +2,7 @@
 Wearable device that tracks number of steps, estimates calories burnt
 
 ## Hardware Used
+- Mini Breadboard & Jumper Cables
 - Arduino Nano / MSP430
 - IMU
 - Bluetooth UART
