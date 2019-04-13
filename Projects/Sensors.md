@@ -1,18 +1,7 @@
 # Available Sensors
 
-## 10 Points
-
-- Button
-- Laser Emitter
-- Laser Receiver
-- Photo Interrupter
-- Relay
-- Simple LED
-- Tap Module
-
-## 20 Points
-
 - Bluetooth Serial
+- Button
 - Buzzer
 - Flame Sensor
 - IMU
@@ -20,15 +9,18 @@
 - Joystick
 - Key Pad
 - LCD
+- Laser Emitter
+- Laser Receiver
 - Metal Touch
+- Mobile Robot Base
 - Multi Color LED / Flash LED
+- Photo Interrupter
 - Proximity Sensor
 - Rain Sensor
+- Relay
+- Simple LED
+- Tap Module
 - Temperature / Humidity Sensor
 - Tilt Switch
 - Ultrasonic
 - Volume Sensor
-
-## 30 Points
-
-Mobile Robot Base
