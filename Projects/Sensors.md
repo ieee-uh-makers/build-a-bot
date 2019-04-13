@@ -9,8 +9,7 @@
 - Joystick
 - Key Pad
 - LCD
-- Laser Emitter
-- Laser Receiver
+- Laser Emitter / Receiver
 - Metal Touch
 - Mobile Robot Base
 - Multi Color LED / Flash LED
