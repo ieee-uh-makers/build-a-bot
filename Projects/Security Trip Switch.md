@@ -11,24 +11,11 @@ Alarm is signaled by sending an alarm message over bluetooth
 
 ## Hardware Used
 - Breadboard & Jumper Cables
-- Arduino Nano / MSP430
+- Arduino Nano / MSP432 Launchpad
 - Laser Emitter
 - Laser Receiver
 - LED / Buzzer Option: Buzzer **OR** LED
 - Bluetooth Option: Bluetooth UART
-
-## Hardware Setup
-- TODO: Link to schematic
-
-## Libraries Used
-1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
-
-## loop() Pseudocode
-1. Check if laser is interrupted
-2. If laser is interrupted, drive LED **OR** buzzer **OR** sends alarm over bluetooth
-
-## Ask-an-Expert
-You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
 ### Sensors
@@ -46,3 +33,16 @@ You may consult with a facilitator to help you solve a problem three times at no
 - Completion: demonstrate your complete project working - 20 Points
 - Next Steps: presenting next steps to improve device/robot - Up to 20 Points
 - Originality / Innovation - Up to 20 points
+
+## Ask-an-Expert
+You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
+
+## Hardware Setup
+- TODO: Link to schematic
+
+## Libraries Used
+1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
+
+## loop() Pseudocode
+1. Check if laser is interrupted
+2. If laser is interrupted, drive LED **OR** buzzer **OR** sends alarm over bluetooth

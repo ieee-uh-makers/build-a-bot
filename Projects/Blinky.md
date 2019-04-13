@@ -3,19 +3,9 @@ Use a button to control an LED
 
 ## Hardware Used
 - Breadboard & Jumper Cables
-- Arduino Nano / MSP430
+- Arduino Nano / MSP432 Launchpad
 - Button
 - LED
-
-## Hardware Setup
-- TODO: Link to schematic
-
-## loop() Pseudocode
-1. Read button
-2. Do something cool with the LED (pulse on / off, modulate PWM, etc)
-
-## Ask-an-Expert
-You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
 ### Sensors
@@ -33,3 +23,13 @@ You may consult with a facilitator to help you solve a problem three times at no
 - Completion: demonstrate your complete project working - 10 Points
 - Next Steps: presenting next steps to improve device/robot - Up to 10 Points
 - Originality / Innovation - Up to 10 points
+
+## Ask-an-Expert
+You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
+
+## Hardware Setup
+- TODO: Link to schematic
+
+## loop() Pseudocode
+1. Read button
+2. Do something cool with the LED (pulse on / off, modulate PWM, etc)

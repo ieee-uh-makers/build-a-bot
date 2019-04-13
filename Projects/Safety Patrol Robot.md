@@ -10,12 +10,33 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 
 ## Hardware Used
 - Mini Breadboard & Jumper Cables
-- Arduino Nano / MSP430
+- Arduino Nano
 - Racer Bot
 - Buzzer
 - Fire Sensor
 - Manual Control Only: Joystick
 - Autonomous Control Only: Ultrasonic Rangefinder
+
+## Scoring
+### Sensors
+- Points are given once the sensors are demonstrated working with your project.
+- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
+
+### Progress (60-70 points possible)
+- Setup Arduino / Energia Project - 10 points
+- Wiring - 10 Points
+- Robot is moving (either via manual control or turns when its about to hit something) - 20 Points
+- Robot detects fire and sounds the buzzer - 20 Points
+- **Bonus**: Autonomous Option - 10 Points
+
+### Other (80 Points Possible)
+- Sales Pitch: pitch your project to a judge - Up to 20 Points
+- Completion: demonstrate your complete project working - 20 Points
+- Next Steps: presenting next steps to improve device/robot - Up to 20 Points
+- Originality / Innovation - Up to 20 points
+
+## Ask-an-Expert
+You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Hardware Setup
 - TODO: Link to schematic
@@ -35,24 +56,3 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 2. Move in the direction of the joystick using the Racer library
 3. Read the fire sensor
 4. If there is a fire sound the alarm
-
-## Ask-an-Expert
-You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
-
-## Scoring
-### Sensors
-- Points are given once the sensors are demonstrated working with your project.
-- Points: https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
-
-### Progress (60-70 points possible)
-- Setup Arduino / Energia Project - 10 points
-- Wiring - 10 Points
-- Robot is moving (either via manual control or turns when its about to hit something) - 20 Points
-- Robot detects fire and sounds the buzzer - 20 Points
-- **Bonus**: Autonomous Option - 10 Points
-
-### Other (80 Points Possible)
-- Sales Pitch: pitch your project to a judge - Up to 20 Points
-- Completion: demonstrate your complete project working - 20 Points
-- Next Steps: presenting next steps to improve device/robot - Up to 20 Points
-- Originality / Innovation - Up to 20 points

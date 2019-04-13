@@ -3,24 +3,9 @@ Wearable device that tracks number of steps, estimates calories burnt
 
 ## Hardware Used
 - Mini Breadboard & Jumper Cables
-- Arduino Nano / MSP430
+- Arduino Nano
 - IMU
 - Bluetooth UART
-
-## Hardware Setup
-- TODO: Link to schematic
-
-## Libraries Used
-1. IMU - TODO
-2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial https://www.arduino.cc/en/Reference/softwareSerial
-
-## loop() Pseudocode
-1. Read IMU
-2. Analyze IMU readings, determine if a step was taken
-3. Send steps over bluetooth
-
-## Ask-an-Expert
-You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
 
 ## Scoring
 ### Sensors
@@ -39,3 +24,18 @@ You may consult with a facilitator to help you solve a problem three times at no
 - Completion: demonstrate your complete project working - 20 Points
 - Next Steps: presenting next steps to improve device/robot - Up to 20 Points
 - Originality / Innovation - Up to 20 points
+
+## Ask-an-Expert
+You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
+
+## Hardware Setup
+- TODO: Link to schematic
+
+## Libraries Used
+1. IMU - TODO
+2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial https://www.arduino.cc/en/Reference/softwareSerial
+
+## loop() Pseudocode
+1. Read IMU
+2. Analyze IMU readings, determine if a step was taken
+3. Send steps over bluetooth
