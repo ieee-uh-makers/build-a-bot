@@ -41,7 +41,7 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Libraries Used
 1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
-2. LCD Option: LCD - TODO
+2. LCD Option: https://www.arduino.cc/en/Reference/LiquidCrystal
 
 ## loop() Pseudocode
 1. Read temperature, humidity and rain sensors.
