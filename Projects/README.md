@@ -23,7 +23,7 @@
 ## Advanced (60 Points)
 
 ### Party Button
-Make a one press party project  that creates a laser and light show. Would be extra neat if you add bumpin’ beats.
+- Make a one press party project  that creates a laser and light show. Would be extra neat if you add bumpin’ beats.
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Party%20Button.md
 
 ### Library Noise Monitor
