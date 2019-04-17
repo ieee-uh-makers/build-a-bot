@@ -30,7 +30,7 @@ You may consult with a facilitator to help you solve a problem three times at no
 - TODO: Link to schematic
 
 ## Libraries Used
-1. IMU - TODO
+1. GY521 IMU: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
 2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
