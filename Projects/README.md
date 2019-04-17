@@ -30,10 +30,6 @@
 - Automatically alerts staff when the noise levels in the library become distracting for people studying there
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Library%20Noise%20Monitor.md
 
-### Sensors from a Hat
-- You get five random sensors and have to do something useful with them. You can choose one sensor in addition to the random five.
-- https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors%20from%20a%20Hat.md
-
 ### Fitness Wearable
 - Wearable device that tracks number of steps, estimates calories burnt
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Fitness%20Wearable.md
@@ -50,6 +46,10 @@
 ### HVAC Patrol Robot
 - Robot that patrols a building computing statistics about temperature and humidity to improve temperature consistency.
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/HVAC%20Patrol%20Robot.md
+
+### Sensors from a Hat
+- You get five random sensors and have to do something useful with them. You can choose one sensor in addition to the random five.
+- https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors%20from%20a%20Hat.md
 
 # Available Sensors
 https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors.md
