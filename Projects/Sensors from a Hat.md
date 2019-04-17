@@ -1,5 +1,5 @@
-# Party Box
-You get five random sensors and have to do something useful with them. You can choose one sensor in addition to the random five.
+# Sensors from a Hat
+You pick four sensors from a hat and have to do something useful with them. You can choose additional sensors, but you MUST use the four random sensors you chose for your project.
 
 ## Hardware Used
 - Breadboard & Jumper Cables

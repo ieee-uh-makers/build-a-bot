@@ -30,9 +30,9 @@ Make a one press party project  that creates a laser and light show. Would be ex
 - Automatically alerts staff when the noise levels in the library become distracting for people studying there
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Library%20Noise%20Monitor.md
 
-### Party Box
+### Sensors from a Hat
 - You get five random sensors and have to do something useful with them. You can choose one sensor in addition to the random five.
-- https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Party%20Box.md
+- https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors%20from%20a%20Hat.md
 
 ### Fitness Wearable
 - Wearable device that tracks number of steps, estimates calories burnt
