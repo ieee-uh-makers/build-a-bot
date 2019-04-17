@@ -22,6 +22,3 @@ You pick four sensors from a hat and have to do something useful with them. You 
 
 ## Ask-an-Expert
 You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
-
-## Hardware Setup
-- TODO: Link to schematic
