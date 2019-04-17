@@ -46,7 +46,7 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Libraries Used
 1. Racer: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
-2. Bluetooth: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
+2. Bluetooth: SoftwareSerial for the Bluetooth Serial (9600 Baud, Key: 1234) - https://www.arduino.cc/en/Reference/softwareSerial
 3. LCD - https://www.arduino.cc/en/Reference/LiquidCrystal
 4. Ultrasonic Rangefinder: https://github.com/Martinsos/arduino-lib-hc-sr04
 

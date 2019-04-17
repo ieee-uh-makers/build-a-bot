@@ -1,6 +1,6 @@
 # Available Sensors
 
-- Bluetooth Serial
+- Bluetooth Serial (9600 Baud, Key: 1234)
 - Button
 - Buzzer
 - Flame Sensor

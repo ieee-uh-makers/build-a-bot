@@ -31,7 +31,7 @@ You may consult with a facilitator to help you solve a problem three times at no
 
 ## Libraries Used
 1. GY521 IMU: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
-2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial https://www.arduino.cc/en/Reference/softwareSerial
+2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial (9600 Baud, Key: 1234) https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
 1. Read IMU

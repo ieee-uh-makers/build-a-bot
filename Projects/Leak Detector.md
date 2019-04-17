@@ -38,7 +38,7 @@ You may consult with a facilitator to help you solve a problem three times at no
 - TODO: Link to schematic
 
 ## Libraries Used
-1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial - https://www.arduino.cc/en/Reference/softwareSerial
+1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial  (9600 Baud, Key: 1234) - https://www.arduino.cc/en/Reference/softwareSerial
 
 ## loop() Pseudocode
 1. Read water level sensor
