@@ -8,6 +8,10 @@
 
 ## Intermediate (50 Points)
 
+### Toaster control
+- Take control of your toasts toastiness. Turn up for most toast or down for just luke warm bread. You monster.
+- https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Toaster%20Control.md
+
 ### Leak Detector
 - Sounds an alarm whenever a leak under the sink is detected
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Leak%20Detector.md
@@ -17,6 +21,10 @@
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Security%20Trip%20Switch.md
 
 ## Advanced (60 Points)
+
+### Party Button
+Make a one press party project  that creates a laser and light show. Would be extra neat if you add bumpin’ beats.
+- https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Party%20Button.md
 
 ### Library Noise Monitor
 - Automatically alerts staff when the noise levels in the library become distracting for people studying there
