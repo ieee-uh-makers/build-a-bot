@@ -4,7 +4,8 @@ You pick four sensors from a hat and have to do something useful with them. You 
 ## Hardware Used
 - Breadboard & Jumper Cables
 - Arduino Nano / MSP432 Launchpad
-- 5 Random Sensors
+- 4 Random Sensors
+- Additional Sensors 
 
 ## Scoring
 
