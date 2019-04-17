@@ -1,5 +1,11 @@
 #include "Racer.h"
 
+/* The arguments are the analog outs used for motor control
+1. LEFT_A
+2. LEFT_B
+3. RIGHT_A
+4. RIGHT_B
+*/
 Racer racer(3, 5, 6, 7);
 
 void setup(){}
