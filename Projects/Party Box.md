@@ -1,4 +1,4 @@
-# Random
+# Party Box
 You get five random sensors and have to do something useful with them. You can choose one sensor in addition to the random five.
 
 ## Hardware Used
