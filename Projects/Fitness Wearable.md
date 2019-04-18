@@ -23,11 +23,11 @@ Wearable device that tracks number of steps, estimates calories burnt
 - Originality / Innovation
 - Project Neatness
 
-## Ask-an-Expert
-You may consult with a facilitator to help you solve a problem three times at no penalty. After three times, you will no longer have priority, so use them wisely.
+## Expert Card (3 per Group)
+The "help me get started on something card". You will get general guidance on how to move forward on your project from an expert. Depending on how long it takes, the expert may decide not to take your card.
 
-## Hardware Setup
-- TODO: Link to schematic
+## Facilitator Card (3 per Group)
+Technical help with the implementation of your project. Use them wisely.
 
 ## Libraries Used
 1. GY521 IMU: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
