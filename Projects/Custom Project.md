@@ -3,11 +3,11 @@
 
 ## Scoring
 
-### Progress (Points up to judges)
+### Progress
+The more you complete, the more points you will based on the difficulty level of the project.
 
 ### Subjective
 - Sales Pitch: pitch your project to a judge
-- Completion: demonstrate your complete project working
 - Next Steps: presenting next steps to improve device/robot
 - Originality / Innovation
 - Project Neatness

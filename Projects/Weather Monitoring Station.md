@@ -20,6 +20,7 @@ The conditions are displayed on an LCD
 ## Scoring
 
 ### Progress
+The more you complete, the more points you will based on the difficulty level of the project.
 - Setup Arduino / Energia Project
 - Wiring
 - Record temperature, humidity, rain level
@@ -27,8 +28,8 @@ The conditions are displayed on an LCD
 - Bonus: Create algorithm to predict whether it will rain or not based on temperature / humidity
 
 ### Subjective
+Judges assess you project and pitch in various ways giving you additional points
 - Sales Pitch: pitch your project to a judge
-- Completion: demonstrate your complete project working
 - Next Steps: presenting next steps to improve device/robot
 - Originality / Innovation
 - Project Neatness

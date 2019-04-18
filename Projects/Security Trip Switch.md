@@ -20,14 +20,15 @@ Alarm is signaled by sending an alarm message over bluetooth
 ## Scoring
 
 ### Progress
+The more you complete, the more points you will based on the difficulty level of the project.
 - Setup Arduino / Energia Project
 - Wiring
 - Device triggers LED / Buzzer / Bluetooth alarm when laser is interrupted
 - Device does not easily trigger a false positive
 
 ### Subjective
+Judges assess you project and pitch in various ways giving you additional points
 - Sales Pitch: pitch your project to a judge
-- Completion: demonstrate your complete project working
 - Next Steps: presenting next steps to improve device/robot
 - Originality / Innovation
 - Project Neatness

@@ -10,13 +10,14 @@ You pick four sensors from a hat and have to do something useful with them. You 
 ## Scoring
 
 ### Progress
+The more you complete, the more points you will based on the difficulty level of the project.
 - Setup Arduino / Energia Project
 - Wiring
 - Do something useful
 
 ### Subjective
+Judges assess you project and pitch in various ways giving you additional points
 - Sales Pitch: pitch your project to a judge
-- Completion: demonstrate your complete project working
 - Next Steps: presenting next steps to improve device/robot
 - Originality / Innovation
 - Project Neatness

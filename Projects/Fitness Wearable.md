@@ -10,6 +10,7 @@ Wearable device that tracks number of steps, estimates calories burnt
 ## Scoring
 
 ### Progress
+The more you complete, the more points you will based on the difficulty level of the project.
 - Setup Arduino / Energia Project
 - Wiring
 - Read IMU, determine if a step was taken
@@ -17,8 +18,8 @@ Wearable device that tracks number of steps, estimates calories burnt
 - **Bonus**: Reduce false positive / false negative steps
 
 ### Subjective
+Judges assess you project and pitch in various ways giving you additional points
 - Sales Pitch: pitch your project to a judge
-- Completion: demonstrate your complete project working
 - Next Steps: presenting next steps to improve device/robot
 - Originality / Innovation
 - Project Neatness

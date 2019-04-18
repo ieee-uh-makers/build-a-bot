@@ -16,6 +16,7 @@ Make a one press party project  that creates a laser and light show. Would be ex
 ## Scoring
 
 ### Progress
+The more you complete, the more points you will based on the difficulty level of the project.
 - Setup Arduino / Energia Project
 - Wiring
 - Button starts party sequence
@@ -23,8 +24,8 @@ Make a one press party project  that creates a laser and light show. Would be ex
 - Everything turns off before the fuzz shows up (60 seconds)
 
 ### Subjective
+Judges assess you project and pitch in various ways giving you additional points
 - Sales Pitch: pitch your project to a judge
-- Completion: demonstrate your complete project working
 - Next Steps: presenting next steps to improve device/robot
 - Originality / Innovation
 - Project Neatness
