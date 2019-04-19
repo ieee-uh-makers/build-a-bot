@@ -25,4 +25,8 @@
 - Volume Sensor
 
 ## Sensor Schematics / Additional Libraries / Documentation
-https://github.com/ieee-uh-makers/elegoo-sensor-kit
+- [Example Projects and Libraries][elegoo]
+- Checkout the [PDF available here][pdf] for pictures, schematics and, documentation for all of the sensors:
+
+[pdf]: https://github.com/ieee-uh-makers/elegoo-sensor-kit/raw/master/37%20SENSOR%20KIT%20TUTORIAL%20FOR%20UNO%20AND%20MEGA%202.0.pdf
+[elegoo]: https://github.com/ieee-uh-makers/elegoo-sensor-kit
