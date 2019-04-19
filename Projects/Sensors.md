@@ -11,7 +11,6 @@
 - LCD
 - Laser Emitter / Receiver
 - Metal Touch
-- Mobile Robot Base
 - Multi Color LED / Flash LED
 - Photo Interrupter
 - Proximity Sensor
@@ -23,6 +22,11 @@
 - Tilt Switch
 - Ultrasonic
 - Volume Sensor
+
+# Actuators
+- DC Motor
+- Mobile Robot Base
+- Servo Motor
 
 ## Sensor Schematics / Pictures / Additional Libraries / Documentation
 - [Example Projects and Libraries][elegoo]
