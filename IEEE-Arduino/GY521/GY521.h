@@ -8,6 +8,8 @@ typedef struct struct_IMU {
   int16_t A_Y;
   int16_t A_Z;
 
+  int16_t Temp;
+
   int16_t G_X;
   int16_t G_Y;
   int16_t G_Z;

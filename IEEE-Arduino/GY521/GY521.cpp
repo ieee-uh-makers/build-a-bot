@@ -22,6 +22,8 @@ IMU GY521::sample(){
   imu.A_Y = Wire.read()<<8|Wire.read();
   imu.A_Z = Wire.read()<<8|Wire.read();
 
+  imu.Temp = Wire.read()<<8 | Wire.read();
+
   imu.G_X = Wire.read()<<8|Wire.read();
   imu.G_Y = Wire.read()<<8|Wire.read();
   imu.G_Z = Wire.read()<<8|Wire.read();

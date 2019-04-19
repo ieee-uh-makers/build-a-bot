@@ -4,7 +4,7 @@ GY521 imu;
 
 void setup(){
   imu.begin();
-  Serial.begin(115200);
+  Serial.begin(9600);
 }
 
 void loop(){
