@@ -48,7 +48,7 @@
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/HVAC%20Patrol%20Robot.md
 
 ### Sensors from a Hat
-- You get five random sensors and have to do something useful with them. You can choose one sensor in addition to the random five.
+You pick four sensors from a hat and have to do something useful with them. You can choose additional sensors, but you MUST use the four random sensors you chose for your project.
 - https://github.com/ieee-uh-makers/build-a-bot/blob/master/Projects/Sensors%20from%20a%20Hat.md
 
 # Available Sensors
