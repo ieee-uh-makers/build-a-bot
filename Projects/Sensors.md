@@ -24,5 +24,5 @@
 - Ultrasonic
 - Volume Sensor
 
-# Schematics / Code Examples / Documentation
+## Sensor Schematics / Additional Libraries / Documentation
 https://github.com/ieee-uh-makers/elegoo-sensor-kit
