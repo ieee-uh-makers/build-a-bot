@@ -24,7 +24,7 @@
 - Ultrasonic
 - Volume Sensor
 
-## Sensor Schematics / Additional Libraries / Documentation
+## Sensor Schematics / Pictures / Additional Libraries / Documentation
 - [Example Projects and Libraries][elegoo]
 - Checkout the [PDF available here][pdf] for pictures, schematics and, documentation for all of the sensors:
 
