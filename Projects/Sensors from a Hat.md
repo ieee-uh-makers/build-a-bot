@@ -7,6 +7,9 @@ You pick four sensors from a hat and have to do something useful with them. You 
 - 4 Random Sensors
 - Additional Sensors
 
+## Sensor Schematics / Additional Libraries / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit
+
 ## Scoring
 
 ### Progress

@@ -13,6 +13,15 @@ Make a one press party project  that creates a laser and light show. Would be ex
 - Volume Sensor
 - Servo Motor
 
+## Sensor Schematics / Additional Libraries / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit
+
+## loop() Pseudocode
+1. Read button
+2. If button pressed, set timer to 60 seconds
+3. While timer is not expired, do crazy party visualizations
+4. When the timer expires, end the party
+
 ## Scoring
 
 ### Progress
@@ -35,9 +44,3 @@ The "help me get started on something card". You will get general guidance on ho
 
 ## Facilitator Card (3 per Group)
 Technical help with the implementation of your project. Use them wisely.
-
-## loop() Pseudocode
-1. Read button
-2. If button pressed, set timer to 60 seconds
-3. While timer is not expired, do crazy party visualizations
-4. When the timer expires, end the party

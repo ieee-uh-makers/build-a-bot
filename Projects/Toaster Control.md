@@ -9,6 +9,15 @@ Take control of your toasts toastiness. Turn up for most toast or down for just 
 - LCD
 - RED LEDs
 
+## Sensor Schematics / Additional Libraries / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit
+
+## loop() Pseudocode
+1. Read button
+2. If button pressed, set timer using the potentiometer
+3. While timer is not expired, turn on the red LEDs
+4. When the timer expires, turn off the LEDs
+
 ## Scoring
 
 ### Progress
@@ -31,9 +40,3 @@ The "help me get started on something card". You will get general guidance on ho
 
 ## Facilitator Card (3 per Group)
 Technical help with the implementation of your project. Use them wisely.
-
-## loop() Pseudocode
-1. Read button
-2. If button pressed, set timer using the potentiometer
-3. While timer is not expired, turn on the red LEDs
-4. When the timer expires, turn off the LEDs

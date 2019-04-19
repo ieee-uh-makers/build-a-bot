@@ -7,6 +7,18 @@ Wearable device that tracks number of steps, estimates calories burnt
 - IMU
 - Bluetooth UART
 
+## Libraries Used
+1. GY521 IMU: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
+2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial (9600 Baud, Key: 1234) https://www.arduino.cc/en/Reference/softwareSerial
+
+## Sensor Schematics / Additional Libraries / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit
+
+## loop() Pseudocode
+1. Read IMU
+2. Analyze IMU readings, determine if a step was taken
+3. Send steps over bluetooth
+
 ## Scoring
 
 ### Progress
@@ -29,12 +41,3 @@ The "help me get started on something card". You will get general guidance on ho
 
 ## Facilitator Card (3 per Group)
 Technical help with the implementation of your project. Use them wisely.
-
-## Libraries Used
-1. GY521 IMU: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
-2. Bluetooth Option: SoftwareSerial for the Bluetooth Serial (9600 Baud, Key: 1234) https://www.arduino.cc/en/Reference/softwareSerial
-
-## loop() Pseudocode
-1. Read IMU
-2. Analyze IMU readings, determine if a step was taken
-3. Send steps over bluetooth

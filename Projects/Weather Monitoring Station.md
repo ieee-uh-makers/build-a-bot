@@ -17,6 +17,17 @@ The conditions are displayed on an LCD
 - Bluetooth Option: Bluetooth Serial
 - LCD Option: LCD
 
+## Libraries Used
+1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial (9600 Baud, Key: 1234) - https://www.arduino.cc/en/Reference/softwareSerial
+2. LCD Option: https://www.arduino.cc/en/Reference/LiquidCrystal
+
+## Sensor Schematics / Additional Libraries / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit
+
+## loop() Pseudocode
+1. Read temperature, humidity and rain sensors.
+2. Transmit them over bluetooth at a regular interval
+
 ## Scoring
 
 ### Progress
@@ -39,11 +50,3 @@ The "help me get started on something card". You will get general guidance on ho
 
 ## Facilitator Card (3 per Group)
 Technical help with the implementation of your project. Use them wisely.
-
-## Libraries Used
-1. Bluetooth Option: SoftwareSerial for the Bluetooth Serial (9600 Baud, Key: 1234) - https://www.arduino.cc/en/Reference/softwareSerial
-2. LCD Option: https://www.arduino.cc/en/Reference/LiquidCrystal
-
-## loop() Pseudocode
-1. Read temperature, humidity and rain sensors.
-2. Transmit them over bluetooth at a regular interval

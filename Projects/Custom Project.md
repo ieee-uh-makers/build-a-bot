@@ -1,5 +1,7 @@
 # Create your own project idea with available resources!
 
+## Sensor Schematics / Additional Libraries / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit
 
 ## Scoring
 

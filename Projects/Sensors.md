@@ -23,3 +23,6 @@
 - Tilt Switch
 - Ultrasonic
 - Volume Sensor
+
+# Schematics / Code Examples / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit

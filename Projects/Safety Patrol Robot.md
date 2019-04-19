@@ -17,6 +17,26 @@ The robot will be automatically controlled using the ultrasonic rangefinder, tur
 - Manual Control Only: Joystick
 - Autonomous Control Only: Ultrasonic Rangefinder
 
+## Libraries Used
+1. Racer: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
+2. Ultrasonic Rangefinder: https://github.com/Martinsos/arduino-lib-hc-sr04
+
+## Sensor Schematics / Additional Libraries / Documentation
+https://github.com/ieee-uh-makers/elegoo-sensor-kit
+
+## Autonomous loop() Pseudocode
+1. Read ultrasonic sensor range
+2. If an object is not nearby, move forwards
+3. If an object is nearby, turn right or left
+4. Read the fire sensor
+5. If there is a fire sound the alarm
+
+## Manual Control loop() Pseudocode
+1. Read the joystick
+2. Move in the direction of the joystick using the Racer library
+3. Read the fire sensor
+4. If there is a fire sound the alarm
+
 ## Scoring
 
 ### Progress
@@ -39,20 +59,3 @@ The "help me get started on something card". You will get general guidance on ho
 
 ## Facilitator Card (3 per Group)
 Technical help with the implementation of your project. Use them wisely.
-
-## Libraries Used
-1. Racer: https://github.com/ieee-uh-makers/build-a-bot/IEEE-Arduino
-2. Ultrasonic Rangefinder: https://github.com/Martinsos/arduino-lib-hc-sr04
-
-## Autonomous loop() Pseudocode
-1. Read ultrasonic sensor range
-2. If an object is not nearby, move forwards
-3. If an object is nearby, turn right or left
-4. Read the fire sensor
-5. If there is a fire sound the alarm
-
-## Manual Control loop() Pseudocode
-1. Read the joystick
-2. Move in the direction of the joystick using the Racer library
-3. Read the fire sensor
-4. If there is a fire sound the alarm
